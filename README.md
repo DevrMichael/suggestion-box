@@ -19,9 +19,8 @@ Denne serverkomponenten, bygget med Express.js, tilbyr et enkelt API for håndte
 
 ### Installasjon
 
-1. Klon repoet til din lokale maskin ved å bruke `git clone`, etterfulgt av URL-en til repoet.
-2. Naviger til mappen som inneholder serverkomponenten ved å bruke kommandoen `cd`.
-3. Installer nødvendige avhengigheter ved å kjøre `npm install`.
+1. Klon repoet til din lokale maskin ved å bruke `git clone https://github.com/DevrMichael/suggestion-box.git`.
+2. Installer nødvendige avhengigheter ved å kjøre `npm install`.
 
 ### Kjøring av serveren
 
